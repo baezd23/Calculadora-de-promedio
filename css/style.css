@@ -1,0 +1,27 @@
+body, html {
+    margin: 0;
+    padding: 0;
+   box-sizing: border-box;
+  }
+  h1 {
+      text-align: center;
+      font-family: Arial, Helvetica, sans-serif;
+      margin: 50px 0px;
+      font-size: 1.8rem;
+      
+  }
+      <style>
+      body, html {
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+      }
+  
+      img {
+        max-width: 100%;
+        height: auto;
+        object-fit: cover;
+        display: block;
+        margin: 0 auto; 
+      }
+
